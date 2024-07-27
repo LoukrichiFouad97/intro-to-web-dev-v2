@@ -5,7 +5,7 @@
   "author": "Brian Holt <btholt+intro.web.dev@gmail.com>",
   "private": true,
   "dependencies": {
-    "bootstrap": "^4.0.0-beta.3",
+    "bootstrap": "^4.0.0",
     "code-mirror-themes": "^1.0.0",
     "gatsby": "^1.9.145",
     "gatsby-link": "^1.6.32",
